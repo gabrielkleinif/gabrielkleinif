@@ -38,6 +38,6 @@
   
   <div align="center">
 
-  ![Snake animation](https://github.com/gabrielkleinif/gabrielkleinif/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
