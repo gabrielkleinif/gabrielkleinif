@@ -25,8 +25,7 @@
 
 
   </div>
-  
-##
+
 
 <div> 
 
@@ -41,3 +40,5 @@
 
   
 </div>
+  
+   ![Snake animation](https://github.com/gabrielkleinif/gabrielkleinif/blob/output/github-contribution-grid-snake.svg)
